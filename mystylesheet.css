@@ -1,0 +1,36 @@
+h1{
+    color: red;
+    text-align: center;
+  }
+  
+  h3{
+    Color: #f7d7dc;
+    background-color: #f46d75;
+    text-align: center;
+  }
+  
+  body{
+    background-color: #f7b4bb;
+  }
+  
+  li{
+    text-align: center;
+  }
+  
+  .menuu{
+    background-color: #F6EABE;
+    margin: 0;
+    padding: 0px;
+  }
+  
+  .menuu a{
+    display:block;
+    padding: 14px 16px;
+    color: Black;
+    text-decoration: none;
+    float:left;
+  }
+  
+  .menuu a:hover{
+    background-color: gray;
+  }
